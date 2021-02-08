@@ -28,8 +28,8 @@ Monday 9 - 10 am
 ## Availability
 
 When are we available for Zoom meetings?
-|Monday|Tuesday|Wednesday|Thursday|Friday|
-|:--|:--|:--|:--|:--|:--|:--|
+||Monday|Tuesday|Wednesday|Thursday|Friday|
+|:------|:------|:--------|:-------|:-----|
 |Erkam|
 |Mayouri|
 |Shayla|

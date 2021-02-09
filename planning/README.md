@@ -34,7 +34,7 @@ When are we available for Zoom meetings?
 |Mayouri|
 |Sheyla|9:00-12:00|9:00-12:00|9:00-12:00|9:00-12:00|9:00-12:00|
 |Michael|
-|Alina|
+|Alina|8.00-10|8.00-18.00|8.00-18.00|8.00-18.00|8.00-18.00
 |Houcinous|
 
 ## Asking for Help

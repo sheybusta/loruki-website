@@ -33,7 +33,7 @@ When are we available for Zoom meetings?
 |Erkam|13.00-21.00|16.00-21.00|12.00-21.00|12.00-17.00|08.00-21.00|08.000-21.00|
 |Mayouri|
 |Shayla|
-|Michael|
+|Michael|09.00-10.00|09.00-10.00|19.00-23.00|09.00-10.00|16.00-23.00|
 |Alina|
 |Houcinous|
 

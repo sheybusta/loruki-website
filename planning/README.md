@@ -34,7 +34,6 @@ When are we available for Zoom meetings?
 |Mayouri|
 <<<<<<< HEAD
 |Shayla|
-|Michael|09.00-10.00|09.00-10.00|19.00-23.00|09.00-10.00|16.00-23.00|
 |Alina|
 =======
 |Sheyla|9:00-12:00|9:00-12:00|9:00-12:00|9:00-12:00|9:00-12:00|

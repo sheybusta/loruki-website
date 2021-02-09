@@ -1,4 +1,4 @@
-# Project title : Loruki wesbite 
+# Project title : Loruki wesbite !
 
 A little info about your project and/ or overview that explains what the project is about.
 

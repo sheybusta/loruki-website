@@ -31,7 +31,7 @@ When are we available for Zoom meetings?
 ||Monday|Tuesday|Wednesday|Thursday|Friday|
 |:----|:------|:------|:--------|:-------|:-----|
 |Erkam|13.00-21.00|16.00-21.00|12.00-21.00|12.00-17.00|08.00-21.00|08.000-21.00|
-|Mayouri|
+|Mayuri|
 <<<<<<< HEAD
 |Shayla|
 |Alina|

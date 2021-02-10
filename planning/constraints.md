@@ -22,8 +22,8 @@ Some boundaries around our project.
   - amount of time available to work on the project
 -->
 
-- Team members level of development experience is lower
-- A team member is not reached; so one person less in development
+- Team members level of coding experience is low
+- Only HTML and CSS 
 
 ## Internal: Voluntary
 
@@ -33,5 +33,5 @@ Some boundaries around our project.
   - only using the colors black and white
   - technologies (sometimes you can choose what to use)
 -->
-
+- A team member is not reached; so one person less in development
 - Availability of the team members [see the time table](README.md)

@@ -1,46 +1,42 @@
-> this backlog does is just a template, it does not have the user stories for All About Trees
-
 # Backlog
 
-A collection of user stories you can choose from. Stories inside of each priority level are not necessarily in order. You and your team will decide when to develop each story by drawing out your [Story Sequencing](#story-sequencing).
+User stories -
 
 ## Must-Haves
 
-are necessary for basic usability:
+As an **visitor** / **account owner** I want a website to be comfortable to use from smaller devices such as phone and tablet.
 
-- **user story name**: As a [type of user] I want to [do something] so that [I achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of consequences should occur]
-  - ...
-- **user story name**: As a [type of user] I want to [do something] so that [I achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of consequences should occur]
-  - ...
-- ...
+- [ ] Given when open from smaller device then design modifies to the size of my screen.
+
+As a **developer** I want to use one platform for various languages.
+
+- [ ] Given supported languages as: Node.js, Python, C#, Ruby, PHP, Scala, Clojure
+
+As a **security officer** I want to use I want to keep my company data secure.
+
+- [ ] Given protection against cyber attacks.
+
+As a **content manager** I want the platform content is clear and well written.
+
+- [ ] Given information split in blocks. (blocks can be small/colors)
+
+As a **designer** I want website to be easy to use.
+
+- [ ] Given minimalist design and clear infographics.
 
 ## Should-Haves
 
-will complete the user experience, but are not necessary:
+As a **product owner** I want to the name of website to be memorable.
 
-- **user story name**: As a [type of user] I want to [do something] so that [I achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of consequences should occur]
-  - ...
-- **user story name**: As a [type of user] I want to [do something] so that [I achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of consequences should occur]
-  - ...
-- ...
+- [] Given simple and original name to the website.
 
 ## Could-Haves
 
 would be really cool ... if there's time:
 
-- **user story name**: As a [type of user] I want to [do something] so that [I achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of consequences should occur]
-  - ...
-- **user story name**: As a [type of user] I want to [do something] so that [I achieve some goal]
-  - Given [context] when [a specific action is performed] then [a set of consequences should occur]
-  - ...
-- ...
+As a **developer** I want to try demo version of the product.
 
----
+- [ ] Given request demo form.
 
 ## Story Sequencing
 

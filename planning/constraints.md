@@ -11,6 +11,9 @@ Some boundaries around our project.
   - technologies (sometimes a client will tell you what to use)
 -->
 
+- short deadline; 1 week
+- github pages only
+
 ## Internal: Involuntary
 
 <!--
@@ -18,6 +21,9 @@ Some boundaries around our project.
   - each of your individual skill levels
   - amount of time available to work on the project
 -->
+
+- Team members level of development experience is lower
+- A team member is not reached; so one person less in development
 
 ## Internal: Voluntary
 
@@ -27,3 +33,5 @@ Some boundaries around our project.
   - only using the colors black and white
   - technologies (sometimes you can choose what to use)
 -->
+
+- Availability of the team members (see the time table)[development-strategy.md]

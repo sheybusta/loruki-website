@@ -28,7 +28,7 @@ As a **designer** I want website to be easy to use.
 
 As a **product owner** I want to the name of website to be memorable.
 
-- [] Given simple and original name to the website.
+- [ ] Given simple and original name to the website.
 
 ## Could-Haves
 

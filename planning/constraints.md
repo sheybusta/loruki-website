@@ -34,4 +34,4 @@ Some boundaries around our project.
   - technologies (sometimes you can choose what to use)
 -->
 
-- Availability of the team members (see the time table)[development-strategy.md]
+- Availability of the team members [see the time table](development-strategy.md)

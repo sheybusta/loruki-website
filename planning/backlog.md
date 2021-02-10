@@ -20,7 +20,7 @@ are necessary for basic usability:
 
 - **As a user I want supported languages cards for Loruki platform so that user can know which languages loruki platform supports**:  
 
-    - [ ] when you user is on home page supported languages icons will appear on the page.  
+    - [ ] when user is on home page supported languages icons will appear on the page.  
 
 
 ## Should-Haves

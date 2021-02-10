@@ -1,6 +1,5 @@
-[1:27 PM, 2/10/2021] Tushar Belgium: # Backlog
 
-A collection of user stories you can choose from. Stories inside of each priority level are not necessarily in order. You and your team will decide when to develop each story by drawing out your [Story Sequencing](#story-sequencing).
+#Backlog
 
 ## Must-Haves
 

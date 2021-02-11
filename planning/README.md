@@ -30,11 +30,16 @@ Monday 9 - 10 am
 When are we available for Zoom meetings?
 ||Monday|Tuesday|Wednesday|Thursday|Friday|
 |:----|:------|:------|:--------|:-------|:-----|
-|Erkam|
-|Mayouri|
+|Erkam|13.00-21.00|16.00-21.00|12.00-21.00|12.00-17.00|08.00-21.00|08.000-21.00|
+|Mayuri|
+<<<<<<< HEAD
 |Shayla|
-|Michael|
 |Alina|
+=======
+|Sheyla|9:00-12:00|9:00-12:00|9:00-12:00|9:00-12:00|9:00-12:00|
+|Michael|18:00-23:00|9:00-10:00|18:00-23:00|9:00-10:00|9:00-10:00|
+|Alina|8.00-10|8.00-18.00|8.00-18.00|8.00-18.00|8.00-18.00
+>>>>>>> d1c661d9f0d56ebfcf52d95d8590c04290ae77f9
 |Houcinous|
 
 ## Asking for Help

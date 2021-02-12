@@ -2,121 +2,126 @@
 
 **CSS**
 
-- media query for tablets (issue)
-- media query for smartphones (issue)
-- flex: wrap (issue)
-- change animation direction for smaller devices (issue)
-  (end of stylesheet)
+- [ ] media query for tablets (issue)
+- [ ] media query for smartphones (issue)
+- [ ] flex: wrap (issue)
+- [ ] change animation direction for smaller devices (issue)
+      (end of stylesheet)
 
 ## Supported languages (milestone)
 
 **HTML**
 
-- list of supported languages: Node.js, Python, C#, Ruby, PHP, Scala, Clojure in languages section on the index page (issue)
+- [ ] list of supported languages: Node.js, Python, C#, Ruby, PHP, Scala, Clojure in languages section on the index page (issue)
 
 **CSS**
 
-- card with supported language (logo + name of supported language) (issue)
-- card styling: rounded corners, shadows (issue)
-- cards hover animation (issue)
+- [ ] card with supported language (logo + name of supported language) (issue)
+- [ ] card styling: rounded corners, shadows (issue)
+- [ ] cards hover animation (issue)
 
 ## Menu (milestone)
 
 **HTML**
 
-- navbar: Home, Features, Docs (all pages) (issue)
+- [ ] navbar: Home, Features, Docs (all pages) (issue)
 
 **CSS**
 
-- style elements, hover (issue)
-- place elements using flex (issue)
+- [ ] style elements, hover (issue)
+- [ ] place elements using flex (issue)
 
-## Spam protection
+## Spam protection (milestone)
 
 **HTML**
 
-- insert honeypot code [honeypot form](https://zinoui.com/blog/protect-web-forms-from-spam#honey-pot) (issue)
+- [ ] insert honeypot code [honeypot form](https://zinoui.com/blog/protect-web-forms-from-spam#honey-pot) (issue)
 
 **CSS**
 
-- hide honeypot 'display:none' (issue)
+- [ ] hide honeypot 'display:none' (issue)
 
-## Original logo
-
-**HTML**
-
-- Logo in navbar on every page (issue)
-
-**CSS**
-@import font from google fonts (issue)
-
-## Organised information
+## Original logo (milestone)
 
 **HTML**
 
-- headers ierarchy on each page (issue)
-- information placed on cards on features page (issue)
-- sub-menu with information on docs page (issue)
-  **CSS**
-  grid, flex on all pages (issue)
-
-## Infographics.
-
-**HTML**
-
-- infograpics with fitting images (issue)
-- **CSS**
-- images placed on cards with info on features page (issue)
-- infographics placed near paragraphs (issue)
-
-## Demo-request form
-
-**HTML**
-
-- request form with name, company and email lines, submit button (issue)
-- **CSS**
-- card styling for request form on index page, top of showcase section
-  on Home page
-
-## Memorable style
+- [ ] Logo in navbar on every page (issue)
 
 **CSS**
 
-- original color palette (issue)
-- original skewed rectangle as part of design(issue)
-- animation on Home page (issue)
+- [ ] @import font from google fonts (issue)
 
-1. As a **potential client** I want success message on demo request form submission.
+## Organised information (milestone)
 
-- [ ] Given succes message appears after the form is filled correctly and submitted.
-  > HTML ???
-  > CSS ???
+**HTML**
 
-## Selected item indication
+- [ ] headers hierarchy on each page (issue)
+- [ ] information placed on cards on features page (issue)
+- [ ] sub-menu with information on docs page (issue)
 
 **CSS**
 
-- hover effect on links - underline in Home page menu (issue)
-- hover effect on cards - go up on Home page menu (issue)
-- hover effect on sub-menu - bold, chosen - blue (issue)
+- [ ] grid, flex on all pages (issue)
 
-## Supported languages be linked to respective official websites
-
-**HTML**
-cards get links a href to websites (issue)
-
-## Social networks icons.
+## Infographics (milestone)
 
 **HTML**
 
-- favicons with links on footer of every page (issue)
+- [ ] infograpics with fitting images (issue)
 
 **CSS**
 
-- styling (issue)
+- [ ] images placed on cards with info on features page (issue)
+- [ ] infographics placed near paragraphs (issue)
 
-## Favicon
+## Demo-request form (milestone)
 
 **HTML**
 
-- favicon link
+- [ ] request form with name, company and email lines, submit button (issue)
+
+**CSS**
+
+- [ ] card styling for request form on index page, top of showcase section on Home page (issue)
+
+## Memorable style (milestone)
+
+**CSS**
+
+- [ ] original color palette (issue)
+- [ ] original skewed rectangle as part of design (issue)
+- [ ] animation on Home page (issue)
+
+## Confirmation Dialog Box (milestone)
+
+- [ ] After a successful submission of the form, a dialog box should be open to inform the user (issue)
+
+## Selected item indication (milestone)
+
+**CSS**
+
+- [ ] hover effect on links - underline in Home page menu (issue)
+- [ ] hover effect on cards - go up on Home page menu (issue)
+- [ ] hover effect on sub-menu - bold, chosen - blue (issue)
+
+## Supported languages to be linked to the respective official websites (milestone)
+
+**HTML**
+
+- [ ] cards get links a href to websites (issue)
+
+## Social networks icons (milestone)
+
+**HTML**
+
+- [ ] favicons with links on footer of every page (issue)
+
+**CSS**
+
+- [ ] styling (issue)
+
+## The Favicon (milestone)
+
+**HTML**
+
+- [ ] favicon generation and linking it to the HTML page (issue)

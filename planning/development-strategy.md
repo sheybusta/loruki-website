@@ -1,124 +1,122 @@
-> You do not need to write (_label_), (_milestone_) and (_issue_) in your strategies. That's just here as a guide.
+## Adaptive design (milestone)
 
-# All About Trees
+**CSS**
 
-A simple little website about trees.
+- media query for tablets (issue)
+- media query for smartphones (issue)
+- flex: wrap (issue)
+- change animation direction for smaller devices (issue)
+  (end of stylesheet)
 
----
+## Supported languages (milestone)
 
-## Wireframe
+**HTML**
 
-![wireframe](https://github.com/sheybusta/loruki-website/blob/branch_mayuri_backlog/planning/Nw_wireframe.PNG)  
+- list of supported languages: Node.js, Python, C#, Ruby, PHP, Scala, Clojure in languages section on the index page (issue)
 
----
+**CSS**
 
-## Loruki WebSite Home Page (_milestone_)
+- card with supported language (logo + name of supported language) (issue)
+- card styling: rounded corners, shadows (issue)
+- cards hover animation (issue)
 
-### HTML (_label_)
+## Menu (milestone)
 
+**HTML**
 
-- **A website Nav bar** (**_milestone_**). 
+- navbar: Home, Features, Docs (all pages) (issue)
 
-   - [ ] Home menu (**_issue_**) 
-   - [ ] feautre Menu(**_issue_**)
-   - [ ] Docs(**_issue_**)
-   
-   
-- **Showcase with request form**(**_milestone_**).  
+**CSS**
 
-  - [ ] Registration Form.(**_issue_**).
-  
-- **Stats of loruki platform**(**_milestone_**).
+- style elements, hover (issue)
+- place elements using flex (issue)
 
-  - [ ] Deployments, Projects,Publish in grid formate.(**_issue_**)
-  
-- **CLI**(**_milestone_**).
+## Spam protection
 
-  - [ ] Easy to use card in In a grid format.(**_issue_**)
- 
-- **cloud**(**_milestone_**)
+**HTML**
 
-  - [ ] cloud section with some fascinating word.(**_issue_**)
-  
-- **Supported Language to loruki**(**_milestone_**).
+- insert honeypot code [honeypot form](https://zinoui.com/blog/protect-web-forms-from-spam#honey-pot) (issue)
 
-  - [ ] Supported languages cards(PHP,nodejs,paython,ruby,scala,Clojure). (**_issue_**)
- 
-- **Menu on footer**(**_milestone_**).
+**CSS**
 
-  - [ ] Loruki copyright details.(**_issue_**)
-  - [ ] website menu (**_issue_**)
-  - [ ] social Networking icons.(**_issue_**)
+- hide honeypot 'display:none' (issue)
 
-### CSS (**_label_**)
-- "navbar" class (**_issue_**).
-- "showcase" class (**_issue_**).
-- "stats" class (**_issue_**).
-- "cli" class (**_issue_**).
-- "Cloud" class (**_issue_**).
-- "languages" class (**_issue_**).
-- "footer" class (**_issue_**).
+## Original logo
 
- 
----
+**HTML**
 
-## Features page of Loruki website(**_milestone_**)
+- Logo in navbar on every page (issue)
 
-### HTML (_label_)
+**CSS**
+@import font from google fonts (issue)
 
-- **Nav bar** (**_milestone_**).
-    - [ ] Home menu(**_issue_**)  
-    - [ ] feautre Menu(**_issue_**)
-    - [ ] Docs(**_issue_**)
-    
--  **Head** (**_milestone_**).
-    - [ ] Details about Loruki platform.(**_issue_**)
-- **sub Head** (**_milestone_**).
-    - [ ] Features about Loruki Platform.(***_issue_**)
-- **Footer** (**_milestone_**).
-   - [ ] Loruki copyright details.(**_issue_**)
-   - [ ] website menu (**_issue_**)
-   - [ ] social Networking icons.(**_issue_**)
-  
+## Organised information
 
-### CSS (_label_)
+**HTML**
 
-  - the "features-head" class (**_issue_**)
-  - the "features-sub-head" class (**_issue_**)
-  - the "features-main" class (**_issue_**)
-  
----
+- headers ierarchy on each page (issue)
+- information placed on cards on features page (issue)
+- sub-menu with information on docs page (issue)
+  **CSS**
+  grid, flex on all pages (issue)
 
-## Document Page (**_milestone_**)
+## Infographics.
 
-### HTML (_label_)
-- Nav bar (**_milestone_**)
-   - [ ] Home menu  (**_issue_**)
-   - [ ] feautre Menu(**_issue_**)
-   - [ ] Docs(**_issue_**)
-    
-- Docs main (**_milestone_**)
-   - [ ] Loruki copyright details.(**_issue_**)
-  - [ ] website menu (**_issue_**)
-  - [ ] social Networking icons.(**_issue_**)
+**HTML**
 
-- Footer(**_milestone_**).
-  - [ ] Loruki copyright details.(**_issue_**)
-  - [ ] website menu (**_issue_**)
-  - [ ] social Networking icons.(**_issue_**)
+- infograpics with fitting images (issue)
+- **CSS**
+- images placed on cards with info on features page (issue)
+- infographics placed near paragraphs (issue)
 
+## Demo-request form
 
-### CSS (_label_)
- - the "docs-main" class (**_issue_**)
----
+**HTML**
 
-## Finishing Touches (_milestone_)
+- request form with name, company and email lines, submit button (issue)
+- **CSS**
+- card styling for request form on index page, top of showcase section
+  on Home page
 
-**As a perfectionist, I want everything perfect :)**
+## Memorable style
 
-- Write final, complete README:
-  - [makeareadme.com](https://www.makeareadme.com/)
-  - [bulldogjob](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-  - [meakaakka](https://medium.com/@meakaakka/a-beginners-guide-to-writing-a-kickass-readme-7ac01da88ab3)
-- Check for styling errors with a linter & prettify code
-- Validate source code on w3 to check for any last mistakes
+**CSS**
+
+- original color palette (issue)
+- original skewed rectangle as part of design(issue)
+- animation on Home page (issue)
+
+1. As a **potential client** I want success message on demo request form submission.
+
+- [ ] Given succes message appears after the form is filled correctly and submitted.
+  > HTML ???
+  > CSS ???
+
+## Selected item indication
+
+**CSS**
+
+- hover effect on links - underline in Home page menu (issue)
+- hover effect on cards - go up on Home page menu (issue)
+- hover effect on sub-menu - bold, chosen - blue (issue)
+
+## Supported languages be linked to respective official websites
+
+**HTML**
+cards get links a href to websites (issue)
+
+## Social networks icons.
+
+**HTML**
+
+- favicons with links on footer of every page (issue)
+
+**CSS**
+
+- styling (issue)
+
+## Favicon
+
+**HTML**
+
+- favicon link

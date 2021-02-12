@@ -8,7 +8,7 @@ A simple little website about trees.
 
 ## Wireframe
 
-![wireframe](./wireframe.gif)  
+![wireframe](./Nw_wireframe.png)  
 
 ---
 

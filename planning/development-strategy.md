@@ -19,9 +19,9 @@ A simple little website about trees.
 
 - **A website Nav bar** (**_milestone_**). 
 
-   - [ ] Home menu  
-   - [ ] feautre Menu
-   - [ ] Docs
+   - [ ] Home menu (**_issue_**) 
+   - [ ] feautre Menu(**_issue_**)
+   - [ ] Docs(**_issue_**)
    
    
 - **Showcase with request form**(**_milestone_**).  

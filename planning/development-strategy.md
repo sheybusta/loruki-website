@@ -1,107 +1,115 @@
-# Loruki website - development strategy
+> You do not need to write (_label_), (_milestone_) and (_issue_) in your strategies. That's just here as a guide.
 
-## Wireframe
+# All About Trees
 
-![wireframe](./wireframe.gif)
+A simple little website about trees.
 
 ---
 
-<<<<<<< HEAD
-# Home Page (_milestone_)
-=======
 ## Wireframe
 
 ![wireframe](https://github.com/sheybusta/loruki-website/blob/branch_mayuri_backlog/planning/Nw_wireframe.PNG)  
->>>>>>> d67e3a0b74b25ed28b192240a8bdb2b8628294be
 
-## HTML (_label_)
+---
 
-- **Head** (**_milestone_**)
-- [ ] Title **_issue_**)
-- [ ] Boilerplate
-- **Navbar** (**_milestone_**).
+## Loruki WebSite Home Page (_milestone_)
 
-  - [ ] Home menu, Feature Menu and Docs (**_issue_**)
-  - [ ] Logo (**_issue_**)
+### HTML (_label_)
 
-- **Showcase**(**_milestone_**).
 
-  - [ ] Request Form.(**_issue_**).
-  - [ ] Text - Read more (**_issue_**).
+- **A website Nav bar** (**_milestone_**). 
 
-- **Stats**(**_milestone_**).
+   - [ ] Home menu (**_issue_**) 
+   - [ ] feautre Menu(**_issue_**)
+   - [ ] Docs(**_issue_**)
+   
+   
+- **Showcase with request form**(**_milestone_**).  
 
-  - [ ] Deployments, Projects, Publish.(**_issue_**)
+  - [ ] Registration Form.(**_issue_**).
+  
+- **Stats of loruki platform**(**_milestone_**).
 
+  - [ ] Deployments, Projects,Publish in grid formate.(**_issue_**)
+  
 - **CLI**(**_milestone_**).
 
-  - [ ] Easy to use card and deploy in seconds, img (**_issue_**)
+  - [ ] Easy to use card in In a grid format.(**_issue_**)
+ 
+- **cloud**(**_milestone_**)
 
-- **Cloud**(**_milestone_**)
+  - [ ] cloud section with some fascinating word.(**_issue_**)
+  
+- **Supported Language to loruki**(**_milestone_**).
 
-  - [ ] Extreme cloud hosting text, button and img (**_issue_**)
-
-- **Languages**(**_milestone_**).
-
-  - [ ] Supported languages cards (PHP,nodejs,python,ruby,scala,Clojure). (**_issue_**)
-
-- **Footer**(**_milestone_**).
+  - [ ] Supported languages cards(PHP,nodejs,paython,ruby,scala,Clojure). (**_issue_**)
+ 
+- **Menu on footer**(**_milestone_**).
 
   - [ ] Loruki copyright details.(**_issue_**)
-  - [ ] website small-menu (**_issue_**)
-  - [ ] Social Networking icons.(**_issue_**)
+  - [ ] website menu (**_issue_**)
+  - [ ] social Networking icons.(**_issue_**)
 
 ### CSS (**_label_**)
+- "navbar" class (**_issue_**).
+- "showcase" class (**_issue_**).
+- "stats" class (**_issue_**).
+- "cli" class (**_issue_**).
+- "Cloud" class (**_issue_**).
+- "languages" class (**_issue_**).
+- "footer" class (**_issue_**).
 
-- [ ] Default style **_issue_**)
-- [ ] Specific styles for elements **_issue_**)
-- [ ] Uses a "navbar" class, "showcase" class,"stats" class, "cli" class, "Cloud" class, "languages" class, "footer" class (**_issue_**)
+ 
+---
 
-# Features Page (**_milestone_**)
+## Features page of Loruki website(**_milestone_**)
 
-## HTML (_label_)
+### HTML (_label_)
 
-- **Navbar** (**_milestone_**).
-- [ ] Home menu, Feature Menu and Docs (**_issue_**)
-- [ ] Logo (**_issue_**)
-- **Head** (**_milestone_**).
-- [ ] Features text and img (**_issue_**)
-- **Sub Head** (**_milestone_**).
-- [ ] About Loruki Platform and img (**_issue_**)
-- **Footer**(**_milestone_**).
-
-- [ ] Loruki copyright details.(**_issue_**)
-- [ ] website small-menu (**_issue_**)
-- [ ] Social Networking icons.(**_issue_**)
-
-  ## CSS (_label_)
-
-- [ ] Uses a "features-head" class, "features-sub-head" class, "features-main" class... (**_issue_**)
-- [ ] Cards styles (**_issue_**)
-- [ ] Grids (**_issue_**)
-
-# Docs Page (**_milestone_**)
-
-## HTML (_label_)
-
-- **Navbar** (**_milestone_**)
-- [ ] Home menu, Feature Menu and Docs (**_issue_**)
-- [ ] Logo (**_issue_**)
-- **Head** (**_milestone_**).
-- [ ] Docs text and img (**_issue_**)
-- **Docs main** (**_milestone_**)
-- [ ] Sub-menu, essential and deployment (**_issue_**)
-- [ ] Install button and instruction (**_issue_**)
-
+- **Nav bar** (**_milestone_**).
+    - [ ] Home menu(**_issue_**)  
+    - [ ] feautre Menu(**_issue_**)
+    - [ ] Docs(**_issue_**)
+    
+-  **Head** (**_milestone_**).
+    - [ ] Details about Loruki platform.(**_issue_**)
+- **sub Head** (**_milestone_**).
+    - [ ] Features about Loruki Platform.(***_issue_**)
 - **Footer** (**_milestone_**).
-- [ ] Loruki copyright details.(**_issue_**)
-- [ ] website small-menu (**_issue_**)
-- [ ] Social Networking icons.(**_issue_**)
+   - [ ] Loruki copyright details.(**_issue_**)
+   - [ ] website menu (**_issue_**)
+   - [ ] social Networking icons.(**_issue_**)
+  
 
-## CSS (_label_)
+### CSS (_label_)
 
-- the "docs-main" class (**_issue_**)
+  - the "features-head" class (**_issue_**)
+  - the "features-sub-head" class (**_issue_**)
+  - the "features-main" class (**_issue_**)
+  
+---
 
+## Document Page (**_milestone_**)
+
+### HTML (_label_)
+- Nav bar (**_milestone_**)
+   - [ ] Home menu  (**_issue_**)
+   - [ ] feautre Menu(**_issue_**)
+   - [ ] Docs(**_issue_**)
+    
+- Docs main (**_milestone_**)
+   - [ ] Loruki copyright details.(**_issue_**)
+  - [ ] website menu (**_issue_**)
+  - [ ] social Networking icons.(**_issue_**)
+
+- Footer(**_milestone_**).
+  - [ ] Loruki copyright details.(**_issue_**)
+  - [ ] website menu (**_issue_**)
+  - [ ] social Networking icons.(**_issue_**)
+
+
+### CSS (_label_)
+ - the "docs-main" class (**_issue_**)
 ---
 
 ## Finishing Touches (_milestone_)

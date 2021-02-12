@@ -31,7 +31,7 @@
 - style elements, hover (issue)
 - place elements using flex (issue)
 
-## Spam protection
+## Spam protection (milestone)
 
 **HTML**
 
@@ -41,7 +41,7 @@
 
 - hide honeypot 'display:none' (issue)
 
-## Original logo
+## Original logo (milestone)
 
 **HTML**
 

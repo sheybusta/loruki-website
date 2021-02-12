@@ -51,7 +51,7 @@
 
 - [ ] @import font from google fonts (issue)
 
-## Organised information
+## Organised information (milestone)
 
 **HTML**
 
@@ -63,7 +63,7 @@
 
 - [ ] grid, flex on all pages (issue)
 
-## Infographics.
+## Infographics (milestone)
 
 **HTML**
 
@@ -74,7 +74,7 @@
 - [ ] images placed on cards with info on features page (issue)
 - [ ] infographics placed near paragraphs (issue)
 
-## Demo-request form
+## Demo-request form (milestone)
 
 **HTML**
 
@@ -85,7 +85,7 @@
 - [ ] card styling for request form on index page, top of showcase section
       on Home page
 
-## Memorable style
+## Memorable style (milestone)
 
 **CSS**
 
@@ -99,7 +99,7 @@
   > HTML ???
   > CSS ???
 
-## Selected item indication
+## Selected item indication (milestone)
 
 **CSS**
 
@@ -107,13 +107,13 @@
 - [ ] hover effect on cards - go up on Home page menu (issue)
 - [ ] hover effect on sub-menu - bold, chosen - blue (issue)
 
-## Supported languages be linked to respective official websites
+## Supported languages to be linked to the respective official websites (milestone)
 
 **HTML**
 
 - [ ] cards get links a href to websites (issue)
 
-## Social networks icons.
+## Social networks icons (milestone)
 
 **HTML**
 
@@ -123,7 +123,7 @@
 
 - [ ] styling (issue)
 
-## Favicon
+## The Favicon (milestone)
 
 **HTML**
 

@@ -82,22 +82,19 @@
 
 **CSS**
 
-- [ ] card styling for request form on index page, top of showcase section
-      on Home page
+- [ ] card styling for request form on index page, top of showcase section on Home page (issue)
 
 ## Memorable style (milestone)
 
 **CSS**
 
 - [ ] original color palette (issue)
-- [ ] original skewed rectangle as part of design(issue)
+- [ ] original skewed rectangle as part of design (issue)
 - [ ] animation on Home page (issue)
 
-1. As a **potential client** I want success message on demo request form submission.
+## Confirmation Dialog Box (milestone)
 
-- [ ] Given succes message appears after the form is filled correctly and submitted.
-  > HTML ???
-  > CSS ???
+- [ ] After a successful submission of the form, a dialog box should be open to inform the user (issue)
 
 ## Selected item indication (milestone)
 
@@ -127,4 +124,4 @@
 
 **HTML**
 
-- [ ] favicon link
+- [ ] favicon generation and linking it to the HTML page (issue)

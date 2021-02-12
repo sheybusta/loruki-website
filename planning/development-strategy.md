@@ -8,7 +8,7 @@ A simple little website about trees.
 
 ## Wireframe
 
-![wireframe](./Nw_wireframe.png)  
+![wireframe](https://github.com/sheybusta/loruki-website/blob/branch_mayuri_backlog/planning/Nw_wireframe.PNG)  
 
 ---
 

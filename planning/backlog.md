@@ -4,7 +4,7 @@ User stories -
 
 ## Must-Haves
 
-As a **visitor** / **account owner** I want a website to be comfortable to use from smaller devices such as phone and tablet.
+As a **visitor** I want a website to be comfortable to use from smaller devices such as phone and tablet.
 
 - [ ] Given when open from smaller device then design modifies to the size of my screen.
 
@@ -16,11 +16,11 @@ As a **visitor** I want menu options so that I can navigate on website:
 
 - [ ] Given when user opens the website hes sees the menu.
 
-As an **owner** of the website I want spam protection to protect data of my clients.
+As an **account owner** of the website I want spam protection to protect data of my clients.
 
 - [ ] Given protection against spam demo requests.
 
-As an **owner** I want a logo so that my website can be easily identified.
+As an **visitor** I want a logo so that my website can be easily identified.
 
 - [ ] Given when the website is opened by a visitor in the browser, it should have a nice, attractive Loruki logo to recognize the website.
 
@@ -55,7 +55,7 @@ As a **visitor** I want all menu items or navigations links to indicate they are
 
 would be really cool ... if there's time:
 
-- As a **user** I want supported languages icons to be linked to their respective official websites.
+As a **visitor** I want supported languages icons to be linked to their respective official websites.
 
   - [ ] Given when user clicks on a language icon it redirects him to the respective official website.
 
